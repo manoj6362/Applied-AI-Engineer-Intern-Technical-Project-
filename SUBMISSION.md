@@ -1,8 +1,8 @@
 # Submission Information
 
-Applicant Name: Manoj
+Applicant Name: Manoj Kumar TN
 
-Applicant Email Address (the one you applied to the role with): 
+Applicant Email Address : manojkumarmanu319@gmail.com 
 
 Ollama model digests you ran the final pipeline with (from `ollama list`, see Model Notes in the README):
 
