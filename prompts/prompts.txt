@@ -1,0 +1,7 @@
+Models: GPT-5.6 Terra
+
+Model: GPT-5.6 Terra
+Prompt: Complete this repository's applied AI engineering assessment according to README.md. Inspect the starter code and data, implement a general RAG pipeline that embeds and retrieves game details, player box scores, recaps, and injury notes; ground evidence; integrate the API; generate and validate the required deliverables; and provide final run and submission instructions. Do not hard-code question IDs, names, or answers.
+
+Model: GPT-5.6 Terra
+Prompt: Continue and finish the assessment. Modify or add files as needed, complete it quickly, and report exactly what remains to run and submit.
